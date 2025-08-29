@@ -4,7 +4,6 @@
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Pico.css-1D2D3E?style=for-the-badge&logoColor=white" alt="Pico.css"/>
 </div>
 
 <br>
